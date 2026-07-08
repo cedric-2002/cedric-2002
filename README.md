@@ -359,6 +359,13 @@ KI kann Entwicklung deutlich beschleunigen, ersetzt aber nicht das notwendige Hi
 </p>
 
 ---
+---
+
+## GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ## GitHub Aktivität
 
