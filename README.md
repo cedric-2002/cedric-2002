@@ -347,28 +347,20 @@ KI kann Entwicklung deutlich beschleunigen, ersetzt aber nicht das notwendige Hi
 
 ---
 
-## GitHub Analytics
+---
+---
+
+## GitHub Profil
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cedric-2002&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=cedric-2002&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric-2002&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+  <img src="https://img.shields.io/github/followers/cedric-2002?style=for-the-badge&color=4f46e5&label=Follower" />
+  <img src="https://img.shields.io/github/stars/cedric-2002?style=for-the-badge&color=7c3aed&label=Sterne" />
+  <img src="https://komarev.com/ghpvc/?username=cedric-2002&style=for-the-badge&color=2563eb&label=Profilaufrufe" />
 </p>
 
 ---
 
-## GitHub Trophäen
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cedric-2002&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
-</p>
-
----
-
-## Beitragsaktivität
+## GitHub Aktivität
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cedric-2002&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=60A5FA&area=true&hide_border=true" />
