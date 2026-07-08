@@ -347,33 +347,6 @@ KI kann Entwicklung deutlich beschleunigen, ersetzt aber nicht das notwendige Hi
 
 ---
 
----
----
-
-## GitHub Profil
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/cedric-2002?style=for-the-badge&color=4f46e5&label=Follower" />
-  <img src="https://img.shields.io/github/stars/cedric-2002?style=for-the-badge&color=7c3aed&label=Sterne" />
-  <img src="https://komarev.com/ghpvc/?username=cedric-2002&style=for-the-badge&color=2563eb&label=Profilaufrufe" />
-</p>
-
----
----
-
-## GitHub Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-## GitHub Aktivität
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cedric-2002&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=60A5FA&area=true&hide_border=true" />
-</p>
-
----
 
 ## Aktueller Fokus
 
