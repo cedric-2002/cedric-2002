@@ -227,7 +227,7 @@ Ziel ist eine schnelle, responsive und professionell wirkende Website, die Proje
 | Performance | Optimierter Produktions-Build, statische Auslieferung und responsive UI |
 | Sicherheit | Saubere Deployment-Struktur, statisches Hosting und kleine Angriffsfläche |
 | Wirkung | Professionelle Online-Präsenz für Projekte, Skills und Kontakt |
-| Repository | Öffentlich oder privat je nach Deployment-Strategie |
+| Repository | Öffentlich |
 
 Das Portfolio ist darauf ausgelegt, per Docker und Docker Compose auf einem eigenen Server betrieben zu werden.  
 Es zeigt reale Projekte, ohne privaten Quellcode oder sensible interne Details offenzulegen.
